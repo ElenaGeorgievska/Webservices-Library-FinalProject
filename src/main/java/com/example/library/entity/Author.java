@@ -35,7 +35,7 @@ public class Author {
 	Integer id;
 	
 	@Column(name= "firstName")
-	String firstName;
+	String firstName;                //name
 	
 	@Column(name= "lastName")
 	String lastName;
